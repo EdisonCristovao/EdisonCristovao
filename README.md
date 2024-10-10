@@ -5,4 +5,4 @@ I'm a software engineer who is passionate about technology, friends e food. Some
 
 ## Find me around the web 🌎: <img align="left" src="https://raw.githubusercontent.com/EdisonCristovao/EdisonCristovao/main/img-footer.png">
 
-- Sharing updates on <a href="https://www.instagram.com/edison.cristovao/">Instagram</a>
+- Sharing updates on <a href="https://www.instagram.com/ec.codes/">Instagram</a>
